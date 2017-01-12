@@ -3,7 +3,7 @@
 * [Overview](README.md)
 * [Trump Intelligence Allegations](trump-intelligence-allegations.md)
     * [COMPANY INTELLIGENCE REPORT 2016\/080](detail.md)
-        * [2016\/080 Details](2016080-details.md)
+        * [2016|080 Details](2016080-details.md)
     * [COMPANY INTELLIGENCE REPORT 2016\/086](company-intelligence-report-2016086.md)
         * [2016\/086 Details](2016086-details.md)
     * [COMPANY INTELLIGENCE REPORT 2016\/095](company-intelligence-report-2016095.md)
