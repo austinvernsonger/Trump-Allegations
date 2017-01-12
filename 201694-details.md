@@ -2,17 +2,7 @@
 CONFIDENTIAL/SENSITIVE SOURCE
 ```
 
-
-
 # Details
-
-
-
-
-
-
-
-
 
 ```
 CONFIDENTIAL/SENSITIVE SOURCE
