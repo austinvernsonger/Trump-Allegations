@@ -37,5 +37,24 @@
     * [COMPANY INTELLIGENCE REPORT 2016\/166](company-intelligence-report-2016166.md)
         * [2016\/166 Details](2016166-details.md)
 * [Conflict of Interest](conflict-of-interest.md)
-    * [Hotels](hotels.md)
+    * Those Indonesian Politicians
+    * That Emirati Businessman
+    * That Virginia Vineyard
+    * That Las Vegas Labor Dispute
+    * That Kuwaiti Event
+    * Those Certificates of Divestiture
+    * That Carrier Deal
+    * That Blind-Trust Issue
+    * Those Fannie and Freddie Investments
+    * That Phone Call With Taiwan
+    * That Deutsche Bank Debt
+    * That Secret Service Detail
+    * That Property in Georgia \(the Country\)
+    * That Phone Call With Erdogan
+    * That Hotel in Washington, D.C.
+    * That Argentinian Office Building
+    * Those Companies in Saudi Arabia
+    * That British Wind Farm
+    * Those Indian Business Partners
+    * That Envoy From the Philippines
 
