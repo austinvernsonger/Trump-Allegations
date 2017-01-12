@@ -1,10 +1,4 @@
-
-
-
-
-# COMPANY INTELLIGENCE REPORT 2016/080
-
-
+# Trump Intelligence Allegations
 
 
 
