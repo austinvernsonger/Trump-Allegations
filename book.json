@@ -1,14 +1,34 @@
 {
     "plugins": [
         "disqus",
-        "katex",
-        "youtube",
-        "exercises",
-        "collapsible-chapters",
         "collapsible-menu",
         "autocover",
         "richquotes-booster",
         "callouts",
         "bootstrap-callout"
-    ]
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "sepia",
+            "family": "sans",
+            "size": 3
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": "facebook,google,twitter,weibo,instapaper"
+        },
+        "theme-default": {
+            "styles": "",
+            "showLevel": true
+        },
+        "lunr": {
+            "maxIndexSize": 1000000,
+            "ignoreSpecialCharacters": false
+        }
+    }
 }
