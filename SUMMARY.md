@@ -37,19 +37,19 @@
     * [COMPANY INTELLIGENCE REPORT 2016\/166](company-intelligence-report-2016166.md)
         * [2016\/166 Details](2016166-details.md)
 * [Conflict of Interest](conflict-of-interest.md)
-    * Those Indonesian Politicians
-    * That Emirati Businessman
-    * That Virginia Vineyard
-    * That Las Vegas Labor Dispute
-    * That Kuwaiti Event
-    * Those Certificates of Divestiture
-    * That Carrier Deal
-    * That Blind-Trust Issue
-    * Those Fannie and Freddie Investments
-    * That Phone Call With Taiwan
-    * That Deutsche Bank Debt
-    * That Secret Service Detail
-    * That Property in Georgia \(the Country\)
+    * [Those Indonesian Politicians](those-indonesian-politicians.md)
+    * [That Emirati Businessman](that-emirati-businessman.md)
+    * [That Virginia Vineyard](that-virginia-vineyard.md)
+    * [That Las Vegas Labor Dispute](that-las-vegas-labor-dispute.md)
+    * [That Kuwaiti Event](that-kuwaiti-event.md)
+    * [Those Certificates of Divestiture](those-certificates-of-divestiture.md)
+    * [That Carrier Deal](that-carrier-deal.md)
+    * [That Blind-Trust Issue](that-blind-trust-issue.md)
+    * [Those Fannie and Freddie Investments](those-fannie-and-freddie-investments.md)
+    * [That Phone Call With Taiwan](that-phone-call-with-taiwan.md)
+    * [That Deutsche Bank Debt](that-deutsche-bank-debt.md)
+    * [That Secret Service Detail](that-secret-service-detail.md)
+    * [That Property in Georgia \(the Country\)](that-property-in-georgia-the-country.md)
     * That Phone Call With Erdogan
     * That Hotel in Washington, D.C.
     * That Argentinian Office Building
