@@ -27,7 +27,7 @@
     * [COMPANY INTELLIGENCE REPORT 2016\/113](company-intelligence-report-2016113.md)
         * [2016\/113 Details](2016113-details.md)
     * [COMPANY INTELLIGENCE REPORT 2016\/130](company-intelligence-report-2016130.md)
-        * 2016\/130 Details
+        * [2016\/130 Details](2016130-details.md)
     * [COMPANY INTELLIGENCE REPORT 2016\/134](company-intelligence-report-2016134.md)
         * 2016\/134 Details
     * [COMPANY INTELLIGENCE REPORT 2016\/135](company-intelligence-report-2016135.md)
