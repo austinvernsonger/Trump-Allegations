@@ -1,0 +1,14 @@
+{
+    "plugins": [
+        "disqus",
+        "katex",
+        "youtube",
+        "exercises",
+        "collapsible-chapters",
+        "collapsible-menu",
+        "autocover",
+        "richquotes-booster",
+        "callouts",
+        "bootstrap-callout"
+    ]
+}
