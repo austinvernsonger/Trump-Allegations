@@ -1,6 +1,8 @@
 {
     "plugins": [
-        "-sharing"
+        "-sharing",
+        "-theme-default",
+        "-lunr"
     ],
     "pluginsConfig": {
         "fontsettings": {
