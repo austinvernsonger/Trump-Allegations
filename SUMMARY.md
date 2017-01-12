@@ -50,11 +50,11 @@
     * [That Deutsche Bank Debt](that-deutsche-bank-debt.md)
     * [That Secret Service Detail](that-secret-service-detail.md)
     * [That Property in Georgia \(the Country\)](that-property-in-georgia-the-country.md)
-    * That Phone Call With Erdogan
-    * That Hotel in Washington, D.C.
-    * That Argentinian Office Building
-    * Those Companies in Saudi Arabia
-    * That British Wind Farm
-    * Those Indian Business Partners
-    * That Envoy From the Philippines
+    * [That Phone Call With Erdogan](that-phone-call-with-erdogan.md)
+    * [That Hotel in Washington, D.C.](that-hotel-in-washington-dc.md)
+    * [That Argentinian Office Building](that-argentinian-office-building.md)
+    * [Those Companies in Saudi Arabia](those-companies-in-saudi-arabia.md)
+    * [That British Wind Farm](that-british-wind-farm.md)
+    * [Those Indian Business Partners](those-indian-business-partners.md)
+    * [That Envoy From the Philippines](that-envoy-from-the-philippines.md)
 
