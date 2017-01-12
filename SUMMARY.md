@@ -15,6 +15,7 @@
     * [COMPANY INTELLIGENCE REPORT 2016\/100](company-intelligence-report-2016100.md)
         * 2016\/100 Details
     * [COMPANY INTELLIGENCE REPORT 2016\/101](company-intelligence-report-2016101.md)
+        * 2016\/101 Details
     * [COMPANY INTELLIGENCE REPORT 2016\/102](company-intelligence-report-2016102.md)
     * [COMPANY INTELLIGENCE REPORT 2016\/105](company-intelligence-report-2016105.md)
     * [COMPANY INTELLIGENCE REPORT 2016\/111](company-intelligence-report-2016111.md)
