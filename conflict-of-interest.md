@@ -40,7 +40,5 @@ Those Indian Business Partners
 
 That Envoy From the Philippines
 
-
-
-Sources: Jeremy Venook - [http://www.theatlantic.com/author/jeremy-venook/](http://www.theatlantic.com/author/jeremy-venook/ "http://www.theatlantic.com/author/jeremy-venook/")
+**Sources**: Jeremy Venook - [http://www.theatlantic.com/author/jeremy-venook/](http://www.theatlantic.com/author/jeremy-venook/ "http://www.theatlantic.com/author/jeremy-venook/")
 
