@@ -1,12 +1,4 @@
 {
-    "plugins": [
-        "disqus",
-        "collapsible-menu",
-        "autocover",
-        "richquotes-booster",
-        "callouts",
-        "bootstrap-callout"
-    ],
     "pluginsConfig": {
         "fontsettings": {
             "theme": "sepia",
