@@ -36,4 +36,5 @@
         * [2016\/136 Details](2016136-details.md)
     * [COMPANY INTELLIGENCE REPORT 2016\/166](company-intelligence-report-2016166.md)
         * [2016\/166 Details](2016166-details.md)
+* [Conflict of Interest](conflict-of-interest.md)
 
