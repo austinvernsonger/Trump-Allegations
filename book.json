@@ -19,7 +19,7 @@
         },
         "theme-default": {
             "styles": "",
-            "showLevel": true
+            "showLevel": false
         },
         "lunr": {
             "maxIndexSize": 1000000,
